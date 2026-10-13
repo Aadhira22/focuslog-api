@@ -29,6 +29,7 @@ You need JDK 21.
 
 - Swagger UI: http://localhost:8080/focuslog-api/swagger-ui.html
 - H2 console: http://localhost:8080/focuslog-api/h2-console
+
 Demo login: `demo@focuslog.dev` / `password123`
 
 ## Tests
